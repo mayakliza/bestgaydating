@@ -86,7 +86,7 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": "https://gaydatingcentral.com/",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/icons8-gay-pride-512-400x400-128x128.png",
     "noImageResize": "",
@@ -96,7 +96,17 @@
       "colorLink": "#29c79e",
       "underlineLink": true,
       "text": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
-    }
+    },
+    "cookiesAlert": {
+      "colorText": "#ffffff",
+      "colorBg": "#333333",
+      "colorButton": "#29c79e",
+      "colorLink": "#25aab2",
+      "underlineLink": true,
+      "opacity": "99",
+      "text": "We use your cookie for providing better site work. Read our <a href='private-privacy.html'>Private Privacy in condition of site using</a>."
+    },
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "gaysgodating-review.html": {
